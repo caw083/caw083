@@ -2,7 +2,7 @@
 👋 Hi, I'm Christopher Ade W.
 
 - 💻 Passionate about Full Stack Development, especially with React, Node.js, and TensorFlow
-- 🚀 Currently exploring TensorFlow, Flutter, Go, JavaScript, and Python
+- 🚀 Currently exploring TensorFlow, Flutter,Arduino, JavaScript, and Python
 - 📚 Learning with Zero to Mastery
 - 🎓 Working on my Thesis
 - 📫 Reach me at: christopher083freelance@gmail.com
