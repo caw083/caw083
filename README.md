@@ -1,11 +1,10 @@
 
-
-👋 Hi, I'm **Christopher Ade Wiyanto**
-👀 Passionate about **Full Stack Development** — especially **React** & **Node js with SwiftUI**  
-🌱 Currently exploring **SwiftUI**, **Flutter**, **Go**, **JavaScript**, and **Python**  
-📫 Reach me at **christopher083freelance@gmail.com**
-
-Currently learning with **Zero to Mastery** and working on my **Thesis**.
+👋 Hi, I'm Christopher Ade Wiyanto
+💻 Passionate about Full Stack Development, especially with React, Node.js, and TensorFlow
+🚀 Currently exploring TensorFlow, Flutter, Go, JavaScript, and Python
+📚 Learning with Zero to Mastery
+🎓 Working on my Thesis
+📫 Reach me at: christopher083freelance@gmail.com
 
 
 
