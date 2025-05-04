@@ -3,7 +3,7 @@
 
 - 💻 Passionate about Full Stack Development, especially with React, Node.js, and TensorFlow
 - 🚀 Currently exploring TensorFlow, Flutter, Arduino, JavaScript, and Python
-- 📚 Learning with [Zero to Mastery](https://github.com/zero-to-mastery)
+- 📚 LActively learning with [Zero to Mastery](https://github.com/zero-to-mastery) and contributing to their open source projects to grow as a developer.
 - 🎓 Working on my Thesis
 - 📫 Reach me at: christopher083freelance@gmail.com
 - 📜 Certified in TensorFlow
