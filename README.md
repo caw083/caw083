@@ -11,7 +11,7 @@
 
 ### 🔗 Connect with me
 - 🌐 Instagram: [`caw18363`](https://www.instagram.com/caw18363/)
-- 🧑‍💻 GitHub: `@caw083`
+- 🧑‍💻 Linkedin: [christopher](https://www.linkedin.com/in/christopher-ade-w/)
 - 🐦 Twitter/X: ``
 
 ---
