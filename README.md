@@ -10,7 +10,7 @@
 
 
 ### 🔗 Connect with me
-- 🌐 Instagram: `instagram/caw18363`
+- 🌐 Instagram: [`caw18363`](https://www.instagram.com/caw18363/)
 - 🧑‍💻 GitHub: `@caw083`
 - 🐦 Twitter/X: ``
 
